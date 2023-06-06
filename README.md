@@ -1,5 +1,4 @@
-# tabla-de-multiplicar-
-tabla de multiplicar en c++
+# tabla-de-multiplicar-en c++
 
 #include<iostream>
 using namespace std;
